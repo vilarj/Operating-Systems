@@ -1,0 +1,1 @@
+./exec_diff_main needs 2 arguments
